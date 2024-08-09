@@ -1,6 +1,5 @@
 # Reslução desafio PicPay
 
-
 # Desafio Back-end PicPay
 
 Primeiramente, obrigado pelo seu interesse em trabalhar na melhor plataforma de pagamentos do mundo!
