@@ -1,4 +1,4 @@
-# Reslução desafio PicPay
+# Resolução desafio PicPay
 
 # Desafio Back-end PicPay
 
