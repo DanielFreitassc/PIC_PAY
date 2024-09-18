@@ -184,3 +184,4 @@ docker run -it --rm -v $(pwd):/project -w /project jakzal/phpqa phpmd app text c
 - https://docs.guzzlephp.org/en/stable/request-options.html
 - https://www.devmedia.com.br/rest-tutorial/28912
 
+
